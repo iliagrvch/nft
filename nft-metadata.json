@@ -1,0 +1,95 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Nature",
+      "value": "natural diamond"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "round brilliant"
+    },
+    {
+      "trait_type": "Diameter",
+      "value": "4.26mm"
+    },
+    {
+      "trait_type": "Height",
+      "value": "2.51mm"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "0.21ct"
+    },
+    {
+      "trait_type": "Color",
+      "value": "G"
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "SI1"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": ": slight yellowish"
+    },
+    {
+      "trait_type": "Cut grade",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Proportions",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Fair"
+    },
+    {
+      "trait_type": "Table size",
+      "value": "65%"
+    },
+    {
+      "trait_type": "Crown height",
+      "value": "11%"
+    },
+    {
+      "trait_type": "Pavilion depth",
+      "value": "44%"
+    },
+    {
+      "trait_type": "Star length",
+      "value": "50%"
+    },
+    {
+      "trait_type": "Lower half",
+      "value": "80%"
+    },
+    {
+      "trait_type": "Girdle",
+      "value": "thick, bruted"
+    },
+    {
+      "trait_type": "Culet",
+      "value": "none"
+    },
+    {
+      "trait_type": "Shade",
+      "value": "none"
+    },
+    {
+      "trait_type": "Spectrum",
+      "value": "not observed"
+    },
+    {
+      "trait_type": "Inclusions type ",
+      "value": "pinpoint. cloud"
+    }
+  ],
+  "description": "My Diamond NFT",
+  "image": "ipfs://QmeCFRDn4P9UcyDnPZziq1y84dGJcf6jS51gwz4uq2xTMB",
+  "name": "Diamond 2"
+}
